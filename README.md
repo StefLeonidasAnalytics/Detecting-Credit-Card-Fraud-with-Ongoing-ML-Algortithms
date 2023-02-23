@@ -1,1 +1,1 @@
-# Detecting-Credit-Card-Fraud-with-ML-Algorithms-(ONGOING)
+# Detecting-Credit-Card-Fraud-with-ML-Algorithms
